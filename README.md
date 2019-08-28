@@ -48,4 +48,4 @@
 # 加入我们
 
 请编辑一条信息发送至(dailyprove@163.com)，包括您的**姓名**以及**电话号码**。我们会及时与您取得联系。  
-![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Images/th.jpg)
+![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Images/th.jpg)  
